@@ -1,3 +1,3 @@
 # Product-Visual
-Augmented Product Visualization 
+Augmented Product Visualization <br>
 Author Name: Abhinav Sethi
